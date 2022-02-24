@@ -41,7 +41,7 @@ hr {
   padding: 0.5rem 1rem;
 }
 
-.link:vis .link-primary {
+.link-primary {
   max-width: 140px;
   padding: 0.6rem 1.2rem;
   background-color: var(--primary-color);
